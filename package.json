@@ -1,6 +1,6 @@
 {
- "name": "CheemsBot-MD",
- "description": "Multi Device Whatsapp Bot By Xeon",
+ "name": "elgazarBot",
+ "description": "Multi Device Whatsapp Bot By elgazar",
  "version": "3.0.0",
  "main": "index.js",
  "type": "commonjs",
