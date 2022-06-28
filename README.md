@@ -1,6 +1,7 @@
 
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩3ꫂ<br></h1>
+<h1 align="center">☬𝑬𝑳𝑮𝑨𝒁𝑨𝑹༒𝑨𝑳𝑾𝑨𝒁𝑬𝑹-𝑩𝑶𝑻࿐
+<br></h1>
 <p align="center">
 <img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
 </p>
@@ -24,7 +25,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 <a href="https://github.com/DGXeon/CheemsBot-MD3"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD3/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD3?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD3&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD3/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/DGXeon/CheemsBot-MD3/graphs/commit-activity"><img ="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -33,14 +34,14 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/01098906252"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/CqsnOHhvUgSBYWLNFqMfvL"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jpg)
+- [`FamPay`](https://telegra.ph/file/e523f48b0ac885a11d10d.jpg)
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
@@ -48,9 +49,9 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
-- [`3rd GC`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
+- [`1st GC`](https://chat.whatsapp.com/CqsnOHhvUgSBYWLNFqMfvL)
+- [`2nd GC`](https://chat.whatsapp.com/CqsnOHhvUgSBYWLNFqMfvL)
+- [`3rd GC`](https://chat.whatsapp.com/CqsnOHhvUgSBYWLNFqMfvL)
 
 # Setup For Deployment 👇
 
